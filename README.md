@@ -22,7 +22,6 @@ The following instructions will provide you information to get the project up an
 
 - Node.JS min version 14.x
 - Yarn
-- Expo
 
 #### Libraries and Frameworks
 
